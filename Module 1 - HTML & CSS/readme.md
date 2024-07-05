@@ -43,8 +43,8 @@ Every HTML document has a basic structure that includes the following elements:
 
 ## YouTube Channels
 
-1. [Anisul Islam - HTML Tutorial](https://www.youtube.com/playlist?list=PLgH5QX0i9K3oHBr5dsumGwjUxByN5Lnw3)
-2. [Anisul Islam - CSS Tutorial](https://www.youtube.com/playlist?list=PLgH5QX0i9K3qjCBXjTmv7Xeh8MDUUVJDO)
+1. [HTML Tutorial](https://youtu.be/GF9awfBYouI?si=7Z6D2hXbjD4mrwPk)
+2. [CSS Tutorial](https://youtu.be/OPkf3FpRKXQ?si=YGs4DYyo_yQlmaO9)
 
 
 Happy Learning!
