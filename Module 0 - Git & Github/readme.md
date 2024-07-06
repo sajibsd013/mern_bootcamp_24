@@ -95,12 +95,10 @@ _A list of my commonly used Git commands_
 
 ## YouTube Channels
 
-* [Learn With Sumit - Git & Github Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4)
+* [Learn With Sumit - Git & GitHub Tutorial](https://www.youtube.com/watch?v=oe21Nlq8GS4)
 
 
-Happy Learning!
-
-
+### _Happy learning!_
 
 
 
