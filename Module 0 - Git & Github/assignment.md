@@ -6,7 +6,7 @@
 **Requirements:**
 - Create an HTML file named `index.html`.
 - Create a file named `readme.md`.
-- Create two branches named `master` & `test`.
+- Create two branches named `main` & `test`.
 - Deploy the project using `GitHub Pages`.
 
 **Deliverables:**
