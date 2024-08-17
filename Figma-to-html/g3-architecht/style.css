@@ -80,3 +80,21 @@ nav li a {
       
       }
   }
+  /* Small devices (portrait tablets and large phones, 600px and up) */
+@media screen and (min-width: 600px)  and (max-width:960px){
+    .banner-title{
+        font-size: 2rem;
+    }
+    header {
+        padding: 20px;
+      }
+      nav {
+      flex-direction: column;
+      gap: 10px;
+      }
+      .banner-content {
+        width: 350px;
+      
+      }
+  }
+  
