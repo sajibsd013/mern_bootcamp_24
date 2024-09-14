@@ -10,12 +10,12 @@ function countVowels(sentence) {
   
     sentence = sentence.toLowerCase();
   
-    for (let char of sentence) {
-      if (vowels.includes(char)) {
-        count++;
-      }
-    }
-  
+ for(let i=0; i<sentence.length; i++){
+   const elements= sentence[i];
+   if(vowels.includes(elements)){
+    count++;
+   }
+ }
     return count;
   }
   
